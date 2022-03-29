@@ -2,7 +2,7 @@
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-Home of open source software maintained by [Very Good Ventures][vgv_link] 🦄
+Home of open source software maintained by [Very Good Ventures][vgv_github_link] 🦄
 
 ### Very Good Packages
 
@@ -17,4 +17,4 @@ Home of open source software maintained by [Very Good Ventures][vgv_link] 🦄
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
 [very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
 [very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
-[vgv_link]: https://verygood.ventures
+[vgv_github_link]: https://github.com/VGVentures
