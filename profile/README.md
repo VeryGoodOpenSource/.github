@@ -6,7 +6,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our very good tools 👇
+### Check out our very good projects 👇
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart (currently experimental). 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - ✅ **[Very Good Analysis][vga]**: Lint rules used internally at VGV.
