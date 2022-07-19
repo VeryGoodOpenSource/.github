@@ -6,14 +6,14 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our very good projects 👇
+### Our very good projects 👇
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart (currently experimental). 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
-- ✅ **[Very Good Analysis][vga]**: Lint rules used internally at VGV.
-- ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV-approved best practices, including flavors, 100% test coverage, and scalable architecture.
-- 🦄 **[Very Good CLI][vgcli]**: Generate a Flutter app, package, plugin, or CLI that all follow VGV standards.
-- 🧪 **[Very Good Coverage][vgcov]**: GitHub action to help enforce a specified code coverage threshold. 
-- 💼 **[Very Good Workflows][vgw]**: Up your project automation with these reusable GitHub workflows.
+- ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
+- 🦄 **[Very Good CLI][vgcli]**: Generate a Flutter app, package, plugin, or CLI that follows VGV standards.
+- ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
+- 🧪 **[Very Good Coverage][vgcov]**: A GitHub Action to help enforce a specified code coverage threshold. 
+- 💼 **[Very Good Workflows][vgw]**: A collection of helpful, reusable GitHub workflows.
 
 ### About the team
 Read more about our [Tooling and Open Source team][oss_team]. 
