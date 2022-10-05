@@ -6,7 +6,13 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Our very good projects 👇
+### Check out our game Very Good Ranch👇
+- **[View the open source code][vgr]**
+- **[Play the game][ranch]**
+
+<a href="https://ranch.vgv.dev"><img src="https://ranch.vgv.dev/img/share_image.png" alt="Very Good Ranch" width="500"/></a>
+
+### Check out our very good tools 👇
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart (currently experimental). 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
@@ -31,3 +37,5 @@ Read more about our [Tooling and Open Source team][oss_team].
 [vga]: https://github.com/verygoodopensource/very_good_analysis
 [vgcov]: https://github.com/verygoodopensource/very_good_coverage
 [vgw]: https://github.com/VeryGoodOpenSource/very_good_workflows
+[ranch]: https://ranch.vgv.dev
+[vgr]: https://github.com/VeryGoodOpenSource/very_good_ranch
