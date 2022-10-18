@@ -12,7 +12,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 
 <a href="https://ranch.vgv.dev"><img src="https://ranch.vgv.dev/img/share_image.png" alt="Very Good Ranch" width="500"/></a>
 
-### Check out our very good tools 👇
+### Try our very good tools 👇
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart (currently experimental). 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
