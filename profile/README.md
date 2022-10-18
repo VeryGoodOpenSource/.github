@@ -15,7 +15,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 ### Check out our very good tools 👇
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart (currently experimental). 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
-- 🌐 **[r13n][rn]**: Makes app regionalization easy.
+- 🌐 **[r13n][rn]**: Implement regionalization within your app.
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
 - 🦄 **[Very Good CLI][vgcli]**: Generate a Flutter app, package, plugin, or CLI that follows VGV standards.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
