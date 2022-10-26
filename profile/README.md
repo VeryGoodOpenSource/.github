@@ -17,7 +17,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
-- 🦄 **[Very Good CLI][vgcli]**: Generate a Flutter app, package, plugin, or CLI that follows VGV standards.
+- 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
 - 🧪 **[Very Good Coverage][vgcov]**: A GitHub Action to help enforce a specified code coverage threshold. 
 - 💼 **[Very Good Workflows][vgw]**: A collection of helpful, reusable GitHub workflows.
