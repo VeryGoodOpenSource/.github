@@ -13,16 +13,21 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 <a href="https://ranch.vgv.dev"><img src="https://ranch.vgv.dev/img/share_image.png" alt="Very Good Ranch" width="500"/></a>
 
 ### Try our very good tools 👇
-## Create
+#### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
+- 💻 **[Dart CLI][dartcli]**: A very good template for a Dart Command-Line Interface.
+- 🎯 **[Dart Package][dartpkg]**: A very good template for a Dart package.
+- 🦋 **[Flutter Package][flutterpkg]**: A very good template for a Flutter package.
+- 📝 **[Docs Site][docsite]**: A very good template for a documentation site.
+- ⚙️ **[Flutter Federated Plugin][vgplugin]**: A very good template for a federated plugin.
 
-## Build
+#### Build
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
 
-## Scale
+#### Scale
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
 - 🧪 **[Very Good Coverage][vgcov]**: A GitHub Action to help enforce a specified code coverage threshold. 
 - 💼 **[Very Good Workflows][vgw]**: A collection of helpful, reusable GitHub workflows.
@@ -46,3 +51,8 @@ Read more about our [Tooling and Open Source team][oss_team].
 [ranch]: https://ranch.vgv.dev
 [vgr]: https://github.com/VeryGoodOpenSource/very_good_ranch
 [rn]: https://github.com/VeryGoodOpenSource/r13n
+[dartcli]: https://github.com/VeryGoodOpenSource/very_good_dart_cli
+[docsite]: https://github.com/VeryGoodOpenSource/very_good_docs_site
+[dartpkg]: https://github.com/VeryGoodOpenSource/very_good_dart_package
+[flutterpkg]: https://github.com/VeryGoodOpenSource/very_good_flutter_package
+[vgplugin]: https://github.com/VeryGoodOpenSource/very_good_flutter_plugin
