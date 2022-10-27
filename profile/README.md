@@ -25,7 +25,9 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### Build
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
+- ✏️ **[Formz][formz]**: A unified form representation in Dart.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
+- ∞ **[Very Good Infinite List][infinlist]**: An infinite list widget for activity feeds, news feeds, and more. 
 
 #### Scale
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
@@ -55,4 +57,6 @@ Read more about our [Tooling and Open Source team][oss_team].
 [docsite]: https://github.com/VeryGoodOpenSource/very_good_docs_site
 [dartpkg]: https://github.com/VeryGoodOpenSource/very_good_dart_package
 [flutterpkg]: https://github.com/VeryGoodOpenSource/very_good_flutter_package
+[formz]: https://github.com/VeryGoodOpenSource/formz
+[infinlist]: https://github.com/VeryGoodOpenSource/very_good_infinite_list
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_flutter_plugin
