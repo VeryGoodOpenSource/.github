@@ -16,6 +16,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
+- 🔥 **[Very Good Flame Game][flamegame]**: A very good template for a Flame game.
 - 💻 **[Dart CLI][dartcli]**: A very good template for a Dart Command-Line Interface.
 - 🎯 **[Dart Package][dartpkg]**: A very good template for a Dart package.
 - 🦋 **[Flutter Package][flutterpkg]**: A very good template for a Flutter package.
@@ -60,3 +61,4 @@ Read more about our [Tooling and Open Source team][oss_team].
 [formz]: https://github.com/VeryGoodOpenSource/formz
 [infinlist]: https://github.com/VeryGoodOpenSource/very_good_infinite_list
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_flutter_plugin
+[flamegame]: https://github.com/VeryGoodOpenSource/very_good_flame_game
