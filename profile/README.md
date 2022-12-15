@@ -25,6 +25,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 
 #### Build
 - 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. 
+- 🪄 **[CLI Completion][cli_completion]**: Completion functionality for Dart Command-Line Interfaces built using CommandRunner. 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - ✏️ **[Formz][formz]**: A unified form representation in Dart.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
@@ -62,3 +63,4 @@ Read more about our [Tooling and Open Source team][oss_team].
 [infinlist]: https://github.com/VeryGoodOpenSource/very_good_infinite_list
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_flame_game
+[cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
