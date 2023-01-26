@@ -1,5 +1,5 @@
 # Welcome to Very Good Open Source! 
-Home of open source software maintained by the [Very Good Ventures team][vgv_github_link].
+Home of open source software maintained by [Very Good Ventures][vgv_github_link].
 
 Our goal is to share our knowledge through helpful tools and maintain a positive open source community. 
 
