@@ -6,11 +6,8 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our game Very Good Ranch👇
-- **[View the open source code][vgr]**
-- **[Play the game][ranch]**
-
-<a href="https://ranch.vgv.dev"><img src="https://ranch.vgv.dev/img/share_image.png" alt="Very Good Ranch" width="500"/></a>
+### Check out our 2023 Open Source Roadmap👇
+<a href="https://verygood.ventures/blog/open-source-tooling-roadmap-2023"><img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63bdd2cca5c6ce4863278866_OSS%20Roadmap.png" alt="OSS Roadmap" width="500"/></a>
 
 ### Try our very good tools 👇
 #### Create
@@ -53,8 +50,6 @@ Read more about our [Tooling and Open Source team][oss_team].
 [vga]: https://github.com/verygoodopensource/very_good_analysis
 [vgcov]: https://github.com/verygoodopensource/very_good_coverage
 [vgw]: https://github.com/VeryGoodOpenSource/very_good_workflows
-[ranch]: https://ranch.vgv.dev
-[vgr]: https://github.com/VeryGoodOpenSource/very_good_ranch
 [rn]: https://github.com/VeryGoodOpenSource/r13n
 [dartcli]: https://github.com/VeryGoodOpenSource/very_good_dart_cli
 [docsite]: https://github.com/VeryGoodOpenSource/very_good_docs_site
