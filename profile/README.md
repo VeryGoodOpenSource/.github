@@ -13,6 +13,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
+- ⌚ **[Flutter Wear OS App][wearos]**: A very good template for a Wear OS app.
 - 🔥 **[Very Good Flame Game][flamegame]**: A very good template for a Flame game.
 - 💻 **[Dart CLI][dartcli]**: A very good template for a Dart Command-Line Interface.
 - 🎯 **[Dart Package][dartpkg]**: A very good template for a Dart package.
@@ -28,6 +29,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - ✏️ **[Formz][formz]**: A unified form representation in Dart.
 - 🌐 **[r13n][rn]**: Implement regionalization within your app.
 - ∞ **[Very Good Infinite List][infinlist]**: An infinite list widget for activity feeds, news feeds, and more. 
+- 🕸️ **[Flutter Web Preloader][web_preloader]**: A brick that creates a smart web entrypoint for Flutter and preloads assets before starting an app.
 
 #### Scale
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
@@ -61,3 +63,5 @@ Read more about our [Tooling and Open Source team][oss_team].
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
 [df_sockets]: https://github.com/VeryGoodOpenSource/dart_frog/tree/main/packages/dart_frog_web_socket
+[wearos]: https://github.com/VeryGoodOpenSource/very_good_wear_app
+[web_preloader]: https://github.com/VeryGoodOpenSource/flutter_web_preloader
