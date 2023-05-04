@@ -6,8 +6,8 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our 2023 Open Source Roadmap👇
-<a href="https://verygood.ventures/blog/open-source-tooling-roadmap-2023"><img src="https://uploads-ssl.webflow.com/5ee12d8e99cde2e20255c16c/63bdd2cca5c6ce4863278866_OSS%20Roadmap.png" alt="OSS Roadmap" width="500"/></a>
+### Check out our new developer hub at [vgv.dev](https://vgv.dev) 👇
+<a href="https://vgv.dev"><img src="https://uploads-ssl.webflow.com/6411eefb77ffb6a6ae487cc6/642a874a1c682718912e0a4e_opengraph.png" alt="VGV Dev" width="500"/></a>
 
 ### Try our very good tools 👇
 #### Create
@@ -35,9 +35,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
 - 🧪 **[Very Good Coverage][vgcov]**: A GitHub Action to help enforce a specified code coverage threshold. 
 - 💼 **[Very Good Workflows][vgw]**: A collection of helpful, reusable GitHub workflows.
-
-### About the team
-Read more about our [Tooling and Open Source team][oss_team]. 
 
 [logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
