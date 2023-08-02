@@ -22,7 +22,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - ⚙️ **[Flutter Federated Plugin][vgplugin]**: A very good template for a federated plugin.
 
 #### Build
-- 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. 
+- 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. **⭐ [Dart Frog 1.0 is here!](https://verygood.ventures/blog/dart-frog-1-0-release)⭐**
 - 🔌 **[Dart Frog Web Socket][df_sockets]**: WebSocket support for Dart Frog. 
 - 🪄 **[CLI Completion][cli_completion]**: Completion functionality for Dart Command-Line Interfaces built using CommandRunner. 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
