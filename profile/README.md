@@ -63,4 +63,4 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [df_sockets]: https://github.com/VeryGoodOpenSource/dart_frog/tree/main/packages/dart_frog_web_socket
 [wearos]: https://github.com/VeryGoodOpenSource/very_good_wear_app
 [web_preloader]: https://github.com/VeryGoodOpenSource/flutter_web_preloader
-[df_auth]: https://pub.dev/packages/dart_frog_auth
+[df_auth]: https://github.com/VeryGoodOpenSource/dart_frog/tree/main/packages/dart_frog_auth
