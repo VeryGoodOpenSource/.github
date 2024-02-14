@@ -15,5 +15,5 @@ jobs:
         uses: srealmoreno/label-sync-action@v1
         with:
           token: ${{ secrets.LABEL_SYNC_GITHUB_PAT }}
-          labels: labels.json
+          config-file: .github/labels.yml
           clean-labels: true
