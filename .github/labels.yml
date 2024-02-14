@@ -5,3 +5,87 @@
 - name: build
   color: 1d7363
   description: Changes that affect the build system or external dependencies
+
+- name: chore
+  color: d2d2d2
+  description: Changes that don't modify source code or tests
+
+- name: ci
+  color: 40f448
+  description: Changes to continuous integration
+
+- name: documentation
+  color: 0075ca
+  description: Improvements or additions to documentation
+
+- name: duplicate
+  color: 758f7c
+  description: This issue or pull request already exists
+
+- name: external dependency
+  color: e5f6ef
+  description: Requires changes in an external dependency
+
+- name: external help wanted
+  color: 008672
+  description: Looking for help on this ticket from the community
+
+- name: good first issue
+  color: 7057ff
+  description: Good for newcomers
+
+- name: invalid
+  color: e4e669
+  description: This doesn't seem right
+
+- name: needs triage
+  color: 000000
+  description: Issue requires triage
+
+- name: p0
+  color: ff0000
+  description: Critical issues such as a build break or regression
+
+- name: p1
+  color: 990000
+  description: High-priority issues at the top of the work list
+
+- name: p2
+  color: 770000
+  description: Important issues not at the top of the work list
+
+- name: p3
+  color: 550000
+  description: Issues that we currently consider unimportant
+
+- name: performance
+  color: f9d0c4
+  description: Changes that improve performance
+
+- name: refactor
+  color: e29a12
+  description: A code change that neither fixes a bug nor add a feature
+
+- name: revert
+  color: d4c5f9
+  description: Changes that reverts a previous commit
+
+- name: spike
+  color: fbca04
+  description: Investigation needed
+
+- name: style
+  color: df76c7
+  description: Changes that do not affect the meaning of the code
+
+- name: test
+  color: 4f0fb9
+  description: Changes that add missing tests or correcting existing tests
+
+- name: waiting for response
+  color: c68654
+  description: Waiting for follow up
+
+- name: won't fix
+  color: ffffff
+  description: This will not be worked on
