@@ -1,0 +1,7 @@
+- name: bug
+  color: d73a4a
+  description: Something isn't working as expected
+
+- name: build
+  color: 1d7363
+  description: Changes that affect the build system or external dependencies
