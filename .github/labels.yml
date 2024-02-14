@@ -39,7 +39,7 @@
   description: This doesn't seem right
 
 - name: needs triage
-  color: 000000
+  color: "000000" #needs to be a string
   description: Issue requires triage
 
 - name: p0
@@ -47,15 +47,15 @@
   description: Critical issues such as a build break or regression
 
 - name: p1
-  color: 990000
+  color: "990000" #needs to be a string
   description: High-priority issues at the top of the work list
 
 - name: p2
-  color: 770000
+  color: "770000" #needs to be a string
   description: Important issues not at the top of the work list
 
 - name: p3
-  color: 550000
+  color: "550000" #needs to be a string
   description: Issues that we currently consider unimportant
 
 - name: performance
