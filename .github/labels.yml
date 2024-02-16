@@ -13,6 +13,7 @@
 - name: ci
   color: 40f448
   description: Changes to continuous integration
+  alias: [github_actions]
 
 - name: documentation
   color: 0075ca
@@ -25,10 +26,17 @@
 - name: external dependency
   color: e5f6ef
   description: Requires changes in an external dependency
+  alias: [dependencies]
 
 - name: external help wanted
   color: "008672" #needs to be a string
   description: Looking for help on this ticket from the community
+  alias: [help wanted]
+
+- name: feature
+  color: 14caec
+  description: A new feature or request
+  alias: [enhancement]
 
 - name: good first issue
   color: 7057ff
@@ -89,3 +97,4 @@
 - name: won't fix
   color: ffffff
   description: This will not be worked on
+  alias: [wontfix, out of scope]
