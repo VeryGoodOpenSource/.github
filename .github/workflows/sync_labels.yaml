@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: ⤵️ Check out code from GitHub
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 🚀 Run Label Sync
-        uses: micnncim/action-label-syncer@v1
+        uses: EndBug/label-sync@v2
         with:
-          manifest: .github/labels.yml
+          config-file: .github/labels.yml
           token: ${{ secrets.LABEL_SYNC_GITHUB_PAT }}
