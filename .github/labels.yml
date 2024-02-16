@@ -27,7 +27,7 @@
   description: Requires changes in an external dependency
 
 - name: external help wanted
-  color: 008672
+  color: "008672" #needs to be a string
   description: Looking for help on this ticket from the community
 
 - name: good first issue
