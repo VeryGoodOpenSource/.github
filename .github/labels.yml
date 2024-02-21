@@ -94,6 +94,7 @@
 - name: waiting for response
   color: c68654
   description: Waiting for follow up
+  aliases: [waiting for feedback]
 
 - name: won't fix
   color: ffffff
