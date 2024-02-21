@@ -89,6 +89,7 @@
 - name: test
   color: 4f0fb9
   description: Changes that add missing tests or correcting existing tests
+  aliases: [tests]
 
 - name: waiting for response
   color: c68654
