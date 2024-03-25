@@ -1,3 +1,7 @@
+- name: breaking change
+  color: e3846d
+  description: A change that will cause existing functionality to change or fail
+
 - name: bug
   color: d73a4a
   description: Something isn't working as expected
@@ -42,9 +46,21 @@
   color: 7057ff
   description: Good for newcomers
 
+- name: has reproductive steps
+  color: 3799b8
+  description: This issue contains detailed steps to reproduce the issue
+
 - name: invalid
   color: e4e669
   description: This doesn't seem right
+
+- name: investigating
+  color: ce37f8
+  description: This is currently being looked into to understand the cause/scope
+
+- name: needs reproductive steps
+  color: "910578" #needs to be a string
+  description: This issue lacks sufficient details and further information in needed
 
 - name: needs triage
   color: "000000" #needs to be a string
