@@ -107,6 +107,10 @@
   description: Changes that add missing tests or correcting existing tests
   aliases: [tests]
 
+- name: tool
+  color: 0031D6
+  description: Changes that effect the projects internal tooling
+
 - name: waiting for response
   color: c68654
   description: Waiting for follow up
