@@ -6,8 +6,8 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our new developer hub at [vgv.dev](https://vgv.dev) 👇
-<a href="https://vgv.dev"><img src="https://uploads-ssl.webflow.com/6411eefb77ffb6a6ae487cc6/642a874a1c682718912e0a4e_opengraph.png" alt="VGV Dev" width="500"/></a>
+### Check out our developer hub at [verygood.ventures/dev](https://verygood.ventures/dev) 👇
+<a href="https://verygood.ventures/dev"><img src="https://uploads-ssl.webflow.com/6411eefb77ffb6a6ae487cc6/642a874a1c682718912e0a4e_opengraph.png" alt="VGV Dev" width="500"/></a>
 
 ### Try our very good tools 👇
 #### Create
