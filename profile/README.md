@@ -22,9 +22,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - ⚙️ **[Flutter Federated Plugin][vgplugin]**: A very good template for a federated plugin.
 
 #### Build
-- 🎯🐸 **[Dart Frog][df]**: A fast, minimalistic backend framework for Dart. **⭐ [Dart Frog 1.0 is here!](https://verygood.ventures/blog/dart-frog-1-0-release)⭐**
-- 🔌 **[Dart Frog Web Socket][df_sockets]**: WebSocket support for Dart Frog.
-- 🔒 **[Dart Frog Auth][df_auth]**: Provides the foundation for authentication for a Dart Frog backend server.
 - 🪄 **[CLI Completion][cli_completion]**: Completion functionality for Dart Command-Line Interfaces built using CommandRunner. 
 - 🏓 **[Flame Behaviors][fb]**: Helps apply the separation of concerns to game logic in the form of entities and behaviors.
 - ✏️ **[Formz][formz]**: A unified form representation in Dart.
@@ -43,7 +40,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
 [vgv_github_link]: https://github.com/VGVentures
 [oss_team]: https://verygood.ventures/blog/tooling-and-open-source-team
-[df]: https://github.com/verygoodopensource/dart_frog
 [vgcli]: https://github.com/VeryGoodOpenSource/very_good_cli
 [fb]: https://github.com/VeryGoodOpenSource/flame_behaviors
 [vgc]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_core
@@ -60,7 +56,5 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
-[df_sockets]: https://github.com/VeryGoodOpenSource/dart_frog/tree/main/packages/dart_frog_web_socket
 [wearos]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_wear_app
 [web_preloader]: https://github.com/VeryGoodOpenSource/flutter_web_preloader
-[df_auth]: https://github.com/VeryGoodOpenSource/dart_frog/tree/main/packages/dart_frog_auth
