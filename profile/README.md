@@ -13,7 +13,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
-- ⌚ **[Flutter Wear OS App][wearos]**: A very good template for a Wear OS app.
 - 🔥 **[Very Good Flame Game][flamegame]**: A very good template for a Flame game.
 - 💻 **[Dart CLI][dartcli]**: A very good template for a Dart Command-Line Interface.
 - 🎯 **[Dart Package][dartpkg]**: A very good template for a Dart package.
@@ -24,7 +23,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### Build
 - 🪄 **[CLI Completion][cli_completion]**: Completion functionality for Dart Command-Line Interfaces built using CommandRunner. 
 - ✏️ **[Formz][formz]**: A unified form representation in Dart.
-- 🌐 **[r13n][rn]**: Implement regionalization within your app.
 - ∞  **[Very Good Infinite List][infinlist]**: An infinite list widget for activity feeds, news feeds, and more. 
 - 🕸️ **[Flutter Web Preloader][web_preloader]**: A brick that creates a smart web entrypoint for Flutter and preloads assets before starting an app.
 
@@ -38,13 +36,11 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
 [very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
 [vgv_github_link]: https://github.com/VGVentures
-[oss_team]: https://verygood.ventures/blog/tooling-and-open-source-team
 [vgcli]: https://github.com/VeryGoodOpenSource/very_good_cli
 [vgc]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_core
 [vga]: https://github.com/verygoodopensource/very_good_analysis
 [vgcov]: https://github.com/verygoodopensource/very_good_coverage
 [vgw]: https://github.com/VeryGoodOpenSource/very_good_workflows
-[rn]: https://github.com/VeryGoodOpenSource/r13n
 [dartcli]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_dart_cli
 [docsite]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_docs_site
 [dartpkg]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_dart_package
@@ -54,5 +50,4 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
-[wearos]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_wear_app
 [web_preloader]: https://github.com/VeryGoodOpenSource/flutter_web_preloader
