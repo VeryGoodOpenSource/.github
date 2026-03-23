@@ -24,7 +24,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - 🪄 **[CLI Completion][cli_completion]**: Completion functionality for Dart Command-Line Interfaces built using CommandRunner. 
 - ✏️ **[Formz][formz]**: A unified form representation in Dart.
 - ∞  **[Very Good Infinite List][infinlist]**: An infinite list widget for activity feeds, news feeds, and more. 
-- 🕸️ **[Flutter Web Preloader][web_preloader]**: A brick that creates a smart web entrypoint for Flutter and preloads assets before starting an app.
 
 #### Scale
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
@@ -50,4 +49,3 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
-[web_preloader]: https://github.com/VeryGoodOpenSource/flutter_web_preloader
