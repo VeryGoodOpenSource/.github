@@ -6,10 +6,16 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-### Check out our developer hub at [verygood.ventures/dev](https://verygood.ventures/dev) 👇
-<a href="https://verygood.ventures/dev"><img src="https://uploads-ssl.webflow.com/6411eefb77ffb6a6ae487cc6/642a874a1c682718912e0a4e_opengraph.png" alt="VGV Dev" width="500"/></a>
+### Check out our developer hub at [verygood.ventures](https://verygood.ventures/resources/open-source-packages/) 👇
+
+[![Very Good Ventures Open Source Hub](./assets/vgv%20dev%20hub.png)]([target-url](https://verygood.ventures/resources/open-source-packages/))
 
 ### Try our very good tools 👇
+
+#### AI
+
+- 🤝 **[Very Good AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
+
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
 - ⭐️ **[Very Good Core][vgc]**: A Flutter app template with VGV best practices, including flavors, 100% test coverage, and scalable architecture.
@@ -49,3 +55,4 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
+[flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/very_good_ai_flutter_plugin
