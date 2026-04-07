@@ -14,7 +14,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 
 #### AI
 
-- 🛍️ **[Very Good Claude Marketplace](claude_marketplace)**: VGV's public [Claude Code](claude_code) marketplace 
+- 🛍️ **[Very Good Claude Marketplace][claude_marketplace]**: VGV's public [Claude Code][claude_code] marketplace 
 - 🤝 **[Very Good AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
 
 #### Create
