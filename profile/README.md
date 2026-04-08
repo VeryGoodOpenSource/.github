@@ -15,7 +15,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 #### AI
 
 - 🛍️ **[Very Good Claude Marketplace][claude_marketplace]**: VGV's public [Claude Code][claude_code] marketplace 
-- 🤝 **[Very Good AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
+- 🤝 **[VGV AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
 
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
@@ -56,6 +56,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgplugin]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flutter_plugin
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
-[flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/very_good_ai_flutter_plugin
+[flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin
 [claude_marketplace]:https://github.com/VeryGoodOpenSource/very_good_claude_marketplace
 [claude_code]: https://code.claude.com/docs/en/overview
