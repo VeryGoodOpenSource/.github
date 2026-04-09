@@ -14,7 +14,8 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 
 #### AI
 
-- 🛍️ **[Very Good Claude Marketplace][claude_marketplace]**: VGV's public [Claude Code][claude_code] marketplace 
+- 🛍️ **[Very Good Claude Marketplace][claude_marketplace]**: VGV's public [Claude Code][claude_code] marketplace
+- 🦋 **[VGV Wingspan][vgv-wingspan]**: Open-Source Agentic Engineering Workflow for [Claude Code][claude_code]
 - 🤝 **[VGV AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
 
 #### Create
@@ -23,7 +24,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - 🔥 **[Very Good Flame Game][flamegame]**: A very good template for a Flame game.
 - 💻 **[Dart CLI][dartcli]**: A very good template for a Dart Command-Line Interface.
 - 🎯 **[Dart Package][dartpkg]**: A very good template for a Dart package.
-- 🦋 **[Flutter Package][flutterpkg]**: A very good template for a Flutter package.
+- 📦 **[Flutter Package][flutterpkg]**: A very good template for a Flutter package.
 - 📝 **[Docs Site][docsite]**: A very good template for a documentation site.
 - ⚙️ **[Flutter Federated Plugin][vgplugin]**: A very good template for a federated plugin.
 
@@ -57,5 +58,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
 [flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin
+[vgv-wingspan]:https://github.com/VeryGoodOpenSource/vgv-wingspan
 [claude_marketplace]:https://github.com/VeryGoodOpenSource/very_good_claude_marketplace
 [claude_code]: https://code.claude.com/docs/en/overview
