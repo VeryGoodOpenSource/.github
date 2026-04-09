@@ -35,7 +35,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 
 #### Scale
 - ✅ **[Very Good Analysis][vga]**: Lint rules for Dart and Flutter used internally at VGV.
-- 🧪 **[Very Good Coverage][vgcov]**: A GitHub Action to help enforce a specified code coverage threshold. 
 - 💼 **[Very Good Workflows][vgw]**: A collection of helpful, reusable GitHub workflows.
 
 [logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
@@ -46,7 +45,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [vgcli]: https://github.com/VeryGoodOpenSource/very_good_cli
 [vgc]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_core
 [vga]: https://github.com/verygoodopensource/very_good_analysis
-[vgcov]: https://github.com/verygoodopensource/very_good_coverage
 [vgw]: https://github.com/VeryGoodOpenSource/very_good_workflows
 [dartcli]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_dart_cli
 [docsite]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_docs_site
