@@ -17,6 +17,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - 🛍️ **[Very Good Claude Marketplace][claude_marketplace]**: VGV's public [Claude Code][claude_code] marketplace
 - 🦋 **[VGV Wingspan][vgv-wingspan]**: Open-Source Agentic Engineering Workflow for [Claude Code][claude_code]
 - 🤝 **[VGV AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
+- 🏗️ **[VGV FFCA Plugin][ffca_plugin]**: Feature-First Clean Architecture conventions and layer enforcement for Flutter monorepos.
 
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
@@ -56,6 +57,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [flamegame]: https://github.com/VeryGoodOpenSource/very_good_templates/tree/main/very_good_flame_game
 [cli_completion]: https://github.com/VeryGoodOpenSource/cli_completion
 [flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin
+[ffca_plugin]:https://github.com/VeryGoodOpenSource/vgv-ffca-plugin
 [vgv-wingspan]:https://github.com/VeryGoodOpenSource/vgv-wingspan
 [claude_marketplace]:https://github.com/VeryGoodOpenSource/very_good_claude_marketplace
 [claude_code]: https://code.claude.com/docs/en/overview
