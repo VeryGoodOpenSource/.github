@@ -18,6 +18,7 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 - 🦋 **[VGV Wingspan][vgv-wingspan]**: Open-Source Agentic Engineering Workflow for [Claude Code][claude_code]
 - 🤝 **[VGV AI Flutter Plugin][flutter_ai_plugin]**: AI plugin to enhance and accelerate Flutter & Dart development.
 - 🏗️ **[VGV FFCA Plugin][ffca_plugin]**: Feature-First Clean Architecture conventions and layer enforcement for Flutter monorepos.
+- 🧰 **[VGV AI CLI][vgv_ai_cli]**: A CLI that configures Very Good AI coding agents and tooling.
 
 #### Create
 - 🦄 **[Very Good CLI][vgcli]**: Generate scalable templates and use helpful commands.
@@ -59,5 +60,6 @@ Our goal is to share our knowledge through helpful tools and maintain a positive
 [flutter_ai_plugin]:https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin
 [ffca_plugin]:https://github.com/VeryGoodOpenSource/vgv-ffca-plugin
 [vgv-wingspan]:https://github.com/VeryGoodOpenSource/vgv-wingspan
+[vgv_ai_cli]: https://github.com/VeryGoodOpenSource/vgv_ai_cli
 [claude_marketplace]:https://github.com/VeryGoodOpenSource/very_good_claude_marketplace
 [claude_code]: https://code.claude.com/docs/en/overview
